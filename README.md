@@ -3,3 +3,4 @@ O   README.md   é   um   arquivo   de   texto   utilizado   para   descrever,  
 exemplo
 
 obs.: lembrei do comando: git commit
+obs.: lembrei do comando: git status
